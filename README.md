@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>My Capstone Project for Coding Camp 2025 by DBS x Dicoding<br>A skin disease detection app powered by TensorFlow Lite and FastAPI.  <br>📎 [Check the repo](https://github.com/SadarKulit-CC25-CF023)<br><br>🌱 I’m currently learning  <br>- React, PWA, REST API<br>- Mobile Development <br><br>💬 Ask me about  <br>- Anything I’ve asked ChatGPT about, honestly 😄<br><br>📫 How to reach me  <br>Feel free to contact me via email: rizkyinsania26@gmail.com<br>Or reach out on LinkedIn: [linkedin.com/in/kykyramadhani](https://www.linkedin.com/in/kykyramadhani) <br>
+# 🪐 Hi! I'm Kyky
+I'm a passionate learner who loves turning ideas into real, useful tech. I enjoy building apps that not only work well, but also look clean and are simple to use. Right now, I’m focused on developing my skills in mobile and web development through real-world projects like my capstone.<br>
+
+I’m especially curious about machine learning, UI/UX, and modern frameworks. For me, every project is a new chance to explore, solve problems, and grow. I believe asking questions, staying curious, and learning from others (yes, including ChatGPT!😄) are key to improving every day.<br><br>📫 How to reach me  <br>Feel free to contact me via email: rizkyinsania26@gmail.com<br>Or reach out on LinkedIn: [linkedin.com/in/kykyramadhani](https://www.linkedin.com/in/kykyramadhani) <br>
 
 
 ## 🌐 Socials:
